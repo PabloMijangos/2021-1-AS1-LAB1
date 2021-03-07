@@ -1,4 +1,4 @@
- ## 🚀 LABORATORIO 1 ANALISIS DE SISTEMAS
+## 🚀 LABORATORIO 1 ANALISIS DE SISTEMAS
 
 
 ## 💬 Nombre : Jose Pablo Mijangos De La Cruz 
