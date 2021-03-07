@@ -4,6 +4,9 @@
 ## 💬 Nombre : Jose Pablo Mijangos De La Cruz 
 ## 💬 Carnet: 1290-18-14609
 
+# 📫 INSTALAR PROYECTO
+🛠️ git push https://github.com/PabloMijangos/2021-1-AS1-LAB1.git
+
 # 📫 USAGE
 ## 💻 Comandos Git
 
